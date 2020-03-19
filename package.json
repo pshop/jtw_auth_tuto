@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/pshop/jtw_auth_tuto/issues"
   },
-  "homepage": "https://github.com/pshop/jtw_auth_tuto#readme"
+  "homepage": "https://github.com/pshop/jtw_auth_tuto#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/preset-react": "^7.8.3"
+  }
 }
